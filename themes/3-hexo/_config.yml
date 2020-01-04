@@ -13,9 +13,7 @@ link:
   items:
     rss: /atom.xml
     github: https://github.com/cocos56
-    jianshu: https://www.jianshu.com/u/424e00963989
     csdn: https://coco56.blog.csdn.net/
-    oschina: https://my.oschina.net/coco56
     email: zj175@139.com
     qq: 1679026015
 
@@ -181,7 +179,7 @@ mathjax:
 
 # Mermaid 支持
 mermaid:
-  on: false
+  on: true
   cdn: //cdn.jsdelivr.net/npm/mermaid@8.4.2/dist/mermaid.min.js
   #cdn: //cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js
   options: # 更多配置信息可以参考 https://mermaidjs.github.io/#/mermaidAPI
@@ -195,7 +193,7 @@ mermaid:
 
 # 友情链接
 friends:
-  叶落阁: http://yelog.org/
+  GitHub: https://github.com/cocos56
 
 ##########评论设置#############
 comment:
