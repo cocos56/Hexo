@@ -62,7 +62,7 @@ menu:
 # 文末声明
 article_txt: 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 zj175@139.com
 
-bottom_text: ©2016-2019 Yelog
+bottom_text: ©2019-2020 Coco56
 # 自定义页面最下方的站点版权信息
 # 如果不填，则自定义为 ©2017 author (这个author为hexo根目录_config.yml中配置的)
 
@@ -82,10 +82,9 @@ searchAll: true
 copyright: true
 # Copyright info. of post | 文末版权信息
 
-word_count: false
+word_count: true
 # true 开启字数统计
 # 开启此功能需要安装插件 ：在 hexo根目录 执行npm i hexo-wordcount --save
-
 
 # 不蒜子网站计数设置
 # http://ibruce.info/2015/04/04/busuanzi/
@@ -97,7 +96,7 @@ visit_counter:
 ##########自定义样式设置##############
 # Table of contents | 文章目录
 toc:
-  max_depth: 3  # 1 - 6 (h1-h6) 目录最大级数
+  max_depth: 6  # 1 - 6 (h1-h6) 目录最大级数
 
 #文章列表 鼠标移上去的样式, 为空时使用默认效果
 article_list:
@@ -196,7 +195,7 @@ friends:
 
 ##########评论设置#############
 comment:
-  on: false
+  on: true
   type: gitalk  # 评论系统：gitalk、disqus、gentie、gitment,注意：使用时，在下方对应位置进行配置
   comment_count: true  # 文章标题下方显示评论数
   preload_comment: false  # 预加载评论区
@@ -216,11 +215,11 @@ gentie:
   # 网易云跟帖暂时不支持查询评论数，所以启用时，把评论数关掉，上方comment_count: false。
 
 gitalk:
-  githubID: yelog
-  repo: yelog.github.io
-  ClientID:
-  ClientSecret:
-  adminUser: yelog
+  githubID: cocos56
+  repo: cocos56.github.io
+  ClientID: b6e7912f7efd2e9a7e5a
+  ClientSecret: f0b5c211cb9379cad3f228aa8b843c6f8ecbcf74
+  adminUser: cocos56
   distractionFreeMode: true
   language: zh-CN
   perPage: 10
