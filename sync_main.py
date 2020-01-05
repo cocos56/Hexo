@@ -12,7 +12,11 @@ if __name__ == "__main__":
     
     run(li)
 
+    cwd = os.getcwd()
     os.chdir(r"H:\G\coco5666.github.io")
     os.system("一键更新变动.bat")
+
+    os.chdir(cwd)
+    os.system("一键更新变动.bat")
+
     os.system("start https://github.coco56.top/blog/")
-    input("同步已完成")
