@@ -11,7 +11,6 @@ blog_path: /
 link:
   theme: color # 链接样式，color: 彩色图标  white: 黑白图标
   items:
-    rss: /atom.xml
     github: https://github.com/cocos56
     csdn: https://coco56.blog.csdn.net/
     email: zj175@139.com
