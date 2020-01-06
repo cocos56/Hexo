@@ -76,7 +76,7 @@ date: 2019-10-03 11:11
 * 打开PyCharm，找到菜单栏中的“Help”接着点击”Register…”
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDcvMTMvNWQyOTg1OTBkNTUyMTk0NjIxLnBuZw)
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMTkvMDcvMTMvNWQyOTg1YjhjODY0OTk2ODU1LnBuZw)
-* 选择”License server”，地址栏里输入： http://jetbrains-license-server->点击Activate->至此激活过程结束
+* 选择”License server”，地址栏里输入： `http://jetbrains-license-server` ->点击Activate->至此激活过程结束
 ![](https://img-blog.csdnimg.cn/2019071409291416.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NPQ081Ng==,size_16,color_FFFFFF,t_70)
 
 ## 4.6. 激活出错原因
