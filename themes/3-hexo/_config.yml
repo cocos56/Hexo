@@ -191,7 +191,9 @@ mermaid:
 
 # 友情链接
 friends:
-  关于&联系我: https://github.coco56.top/blog/about/
+  关于&联系我: https://coco56.gitee.io/blog/about
+  GitHub博客: https://github.coco56.top/blog
+  Gitee博客: https://coco56.gitee.io/blog
 
 ##########评论设置#############
 comment:
