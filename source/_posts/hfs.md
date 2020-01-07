@@ -9,7 +9,8 @@ tags:
 [toc]
 
 # 1. 按
-请先查看[使用帮助](https://coco56.blog.csdn.net/article/details/100619737)，以解决**如何下载文件或文件夹**和**如何在线观看视频？**等常见问题。
+请先查看[使用帮助](https://coco56.blog.csdn.net/article/details/100619737)，以解决如何**下载文件或文件夹**和**在线观看视频**等常见问题。
+另外也可以通过我分享的[OneDrive网盘高速下载链接](https://coco56.gitee.io/blog/OneDrive/)来访问我分享的文件。
 
 # 2. IP V6协议
 [如何查看本机是否支持IP V6？：https://coco56.blog.csdn.net/article/details/103248395](https://coco56.blog.csdn.net/article/details/103248395)
