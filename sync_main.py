@@ -7,16 +7,16 @@ if __name__ == "__main__":
     os.system("hexo g")
     
     li=[
-        (r'H:\G\Hexo\public', r'H:\G\blog.coco56.top\blog')
+        (r'H:\G\Hexo\public', r'H:\G\coding.coco56.top\blog')
     ]
     
     run(li)
 
     cwd = os.getcwd()
-    os.chdir(r"H:\G\blog.coco56.top")
+    os.chdir(r"H:\G\coding.coco56.top")
     os.system("一键更新变动.bat")
 
     os.chdir(cwd)
     os.system("一键更新变动.bat")
 
-    os.system("start https://blog.coco56.top/blog/")
+    os.system("start https://coding.coco56.top/blog/")
