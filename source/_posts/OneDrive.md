@@ -34,4 +34,4 @@ date: 2019-04-05 08:06
 <img src="https://i.loli.net/2019/07/06/5d20bb5b090cf90572.jpg">
 
 # 5. 关于&联系我
-https://coco5666.github.io/blog/about
+[https://coco56.gitee.io/blog/about](https://coco56.gitee.io/blog/about)
