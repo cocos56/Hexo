@@ -35,4 +35,6 @@ date: 2019-09-22 21:26
 # 4. 其他说明
 * 逆转换回去企业版示例：
 `slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43`
+* 专业版
+`slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`
 * 其他版本参考：https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys
