@@ -7,7 +7,7 @@ if __name__ == "__main__":
     os.system("hexo g")
     
     li=[
-        (r'\public', r'..\coding.coco56.top\blog')
+        (r'.\public', r'D:\0\G\coding.coco56.top\blog')
     ]
     
     run(li)
