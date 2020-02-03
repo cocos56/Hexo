@@ -20,7 +20,7 @@ date: 2019-04-05 08:06
 3. [Gitee博客](https://coco56.gitee.io/blog/OneDrive/)
 
 # 3. 资源链接
-* [大型软件：](https://uinedu-my.sharepoint.com/:f:/g/personal/a19635_myoffice_site/EiYDxymeTBpMqMF9YfndrZkBPkwe_ltyPtKZ8Oifs3RQ1A?e=dPQkSW)
+* [大型软件](https://acedidiaoacid-my.sharepoint.com/:f:/g/personal/coco56_msoffice_tw/EtGDO3TvtAdKvzt8O7_HJRcB9z-tBup2Gfolvgjvc8PZSw?e=xck9Cb)
 * [精品软件](https://acedidiaoacid-my.sharepoint.com/:f:/g/personal/coco56_msoffice_tw/EreRiFcEeA5Eg1DlOSnIXZsBLNrFfuQmOvpvmPl26TQ7BA?e=t4HEZ5)
 * [开发相关](https://acedidiaoacid-my.sharepoint.com/:f:/g/personal/coco56_msoffice_tw/EowxsJNEHjVGpNrpSoUvrUEBoWGAS42_hm2x2ak3juo71w?e=8Wkx80)
 * 我开发的：在**开发相关**里
