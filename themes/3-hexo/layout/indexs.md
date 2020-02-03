@@ -1,5 +1,12 @@
-# 1. Why Blog
-## 1.1. 对博客的理解
+[toc]
+
+# 1. 博客地址
+本博客使用Git管理，分布存储在多个平台上。
+* GitHub：https://GitHub.coco56.top/blog
+* Gitee：https://coco56.gitee.io/
+* Coding：https://coding.coco56.top/blog/
+
+# 2. 对博客的理解
 喜欢写Blog的人，会经历三个阶段。
 >第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写。
 
@@ -11,7 +18,7 @@
 
 通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间。
 
-## 1.2. 关于Coco56个人博客
+# 3. 关于Coco56个人博客
 **Coco56个人博客**是Coco She（徐可可）的个人站。
 
 更多关于我：[https://GitHub.coco56.top/blog/about/](https://GitHub.coco56.top/blog/about/)
@@ -20,7 +27,7 @@
 
 本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次
 
-## 1.3. 博客平台
+# 4. 博客平台
 这个博客通过 [Hexo](https://hexo.io/) 生成，部署在 [GitHub Pages](https://pages.github.com/)，主题 [3-hexo](https://github.com/yelog/hexo-theme-3-hexo) 已经在github上开源
 
 主要功能：
