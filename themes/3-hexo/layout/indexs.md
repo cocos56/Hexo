@@ -1,5 +1,3 @@
-[toc]
-
 # 1. 博客地址
 本博客使用Git管理，分布存储在多个平台上。
 * GitHub：https://GitHub.coco56.top/blog
