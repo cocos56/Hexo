@@ -9,7 +9,7 @@ date: 2019-04-05 08:06
 # 1. 按
 * 建议不了解的先看下：[OneDrive下载教程](https://www.cnblogs.com/coco56/p/11161530.html)，以防出现莫名其妙的问题：如下载的文件打不开，无法正常访问资源链接。
 * 另外使用[InternetDownloadManager](https://blog.csdn.net/COCO56/article/details/102529329)可以**加速下载**。
-* 最后如果您用的是手机流量或者您电脑的网络支持IP V6上网，则可以直接从我电脑上下载资源。
+* 最后如果您的普通手机卡**流量**比较多（非物联卡）或者您电脑的网络**支持IP V6上网**，也可以直接从我电脑上下载资源。
 参考：[我的HFS（HTTP File System）服务器](https://coco56.gitee.io/blog/hfs/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200203182510793.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9jb2NvNTYuYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
 

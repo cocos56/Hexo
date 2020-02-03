@@ -16,7 +16,9 @@ tags:
 # 2. IP V6协议
 
 [如何查看本机是否支持IP V6？：https://coco56.blog.csdn.net/article/details/103248395](https://coco56.blog.csdn.net/article/details/103248395)
-一般用**手机流量**都可以访问。
+一般普通手机卡的**流量**都支持IP V6上网（物联卡除外），电脑的话需要去网络连接那里看一下是否**支持IP V6上网**。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200203182510793.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9jb2NvNTYuYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+
 * [http://v6.coco56.top/](http://v6.coco56.top/)
 全世界范围内都可访问，40M的带宽。
 * [http://1v6.coco56.top/](http://1v6.coco56.top/)
