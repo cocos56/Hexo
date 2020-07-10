@@ -24,11 +24,9 @@ date: 2019-04-05 08:06
 # 3. 资源链接
 
 注：由于网盘压力过大，已挂，第三方网盘就是这样，限速限量，有时候还容易出问题。
-因此，本人自建了一个云，使用方式请参考（不懂的请多阅读几遍）：
-    * 非Windows用户：[我的HFS（HTTP File System）服务器](https://coco56.gitee.io/blog/HFS/)
-    * Windows用户：[我分享的Windows共享文件夹](https://coco56.blog.csdn.net/article/details/105914768)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200203182510793.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9jb2NvNTYuYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+因此，本人自建了一个云，使用方式请参考：
+* 非Windows用户：[我的HFS（HTTP File System）服务器](https://www.cnblogs.com/coco56/p/13280891.html)
+* Windows用户：[我分享的Windows共享文件夹](https://coco56.blog.csdn.net/article/details/105914768)
 <!-- * [大型软件](https://acedidiaoacid-my.sharepoint.com/:f:/g/personal/coco56_msoffice_tw/EtGDO3TvtAdKvzt8O7_HJRcB9z-tBup2Gfolvgjvc8PZSw?e=xck9Cb)
 * [精品软件](https://acedidiaoacid-my.sharepoint.com/:f:/g/personal/coco56_msoffice_tw/EreRiFcEeA5Eg1DlOSnIXZsBLNrFfuQmOvpvmPl26TQ7BA?e=t4HEZ5)
 * [开发相关](https://acedidiaoacid-my.sharepoint.com/:f:/g/personal/coco56_msoffice_tw/EowxsJNEHjVGpNrpSoUvrUEBoWGAS42_hm2x2ak3juo71w?e=8Wkx80)
