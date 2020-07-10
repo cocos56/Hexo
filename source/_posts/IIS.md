@@ -21,7 +21,7 @@ tags:
 
 * 如需将家用宽带升级到支持IPv6，请参考：[个人或小微企业网络从IPv4升级到IPv6/v4硬件配置及注意事项](https://coco56.blog.csdn.net/article/details/105417342)
 
-## 2.2. IPv6服务器
+## 2.2. IPv6服务器地址列表
 
 * [http://1.coco56.top:82/](http://1.coco56.top:82/)
 解析的是一号机的IPv6地址，全世界范围内都可访问，40Mbps的带宽。
