@@ -11,6 +11,12 @@ tags:
 
 微软出品，对流媒体支持更好，很多浏览器都能够在线播放使用IIS分享的视频文件。
 
+本应用为访问本人自建云的方式之一，当然还有更多其他方式，如通过：
+<!-- * 通过我分享的[OneDrive网盘高速下载链接](https://coco56.gitee.io/blog/OneDrive/)来访问我分享的文件 -->
+* [我的HFS（HTTP File System）服务器](https://www.cnblogs.com/coco56/p/13280891.html)来访问我分享的文件
+* [我分享的Windows共享文件夹](https://coco56.blog.csdn.net/article/details/105914768)来更好地访问我所分享的资源
+需要您的机器安装的是Windows操作系统且支持IPv6
+
 # 2. IPv6协议
 
 ## 2.1. IPv6介绍

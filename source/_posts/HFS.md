@@ -13,7 +13,7 @@ tags:
 
 该HFS为新版本的HFS2，手机访问体验较好，如果您对相关下载操作不熟悉，请先查看[使用帮助](https://coco56.blog.csdn.net/article/details/100619737)，以解决如何**下载文件或文件夹**和**在线观看视频**等常见问题。
 
-本应用为访问本人自建云的方式之一，当然还有更多其他方式，如：
+本应用为访问本人自建云的方式之一，当然还有更多其他方式，如通过：
 <!-- * 通过我分享的[OneDrive网盘高速下载链接](https://coco56.gitee.io/blog/OneDrive/)来访问我分享的文件 -->
 * [我的IIS（Internet Information Services）服务器](https://coco56.gitee.io/blog/IIS/)来访问我分享的文件
 * [我分享的Windows共享文件夹](https://coco56.blog.csdn.net/article/details/105914768)来更好地访问我所分享的资源
