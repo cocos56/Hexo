@@ -31,10 +31,10 @@ tags:
 
 ## 2.2. IPv6服务器地址列表
 
-* [http://1.coco56.top:82/](http://1.coco56.top:82/)
-解析的是一号机的IPv6地址，全世界范围内都可访问，40Mbps的带宽。
 * [http://7.coco56.top:82/](http://7.coco56.top:82/)
 解析的是五号机的IPv6地址，全世界范围内都可访问，60Mbps的带宽。
+* [http://1.coco56.top:82/](http://1.coco56.top:82/)
+解析的是一号机的IPv6地址，全世界范围内都可访问，40Mbps的带宽。
 
 # 3. IPv4协议
 
