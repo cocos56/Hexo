@@ -120,9 +120,9 @@ date: 2019-04-05 09:43
 ## 6.5. 我的兼职
 
 兼职传智播客/博学谷/课程开发老师
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200823101951946.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NPQ081Ng==,size_16,color_FFFFFF,t_70#pic_center)
+![](https://img-blog.csdnimg.cn/20200823101951946.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NPQ081Ng==,size_16,color_FFFFFF,t_70#pic_center)
 [传智播客集团](http://www.itcast.cn/subject/about/index.html?about)简介：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200823100837271.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NPQ081Ng==,size_16,color_FFFFFF,t_70#pic_center)
+![](https://img-blog.csdnimg.cn/20200823100837271.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NPQ081Ng==,size_16,color_FFFFFF,t_70#pic_center)
 
 
 ## 6.6. 准备开发或待发布完善的项目
